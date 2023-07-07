@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tkkoksall@gmail.com,tkkoksal@icloud.com**
 
-- 📫 <h3><a href="https://koraykoksal.github.io/" target="blank_">For my portfolio web site Click Here</a></h3>
+<h3><a href="https://koraykoksal.github.io/" target="_blank">For my portfolio web site Click Here</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
